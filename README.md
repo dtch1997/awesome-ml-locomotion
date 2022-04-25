@@ -4,10 +4,15 @@
 
 # Table of Contents
 + [Papers](#papers)
+  - [Reviews](#reviews)
   - [Surveys](#surveys)
 
 # Papers
+
+### Reviews
+2021 | How to train your robot with deep reinforcement learning: lessons we have learned | Julian Ibarz, et al. | arXiv | [`PDF`](https://journals.sagepub.com/doi/pdf/10.1177/0278364920987859)
 ### Surveys
+
 
 # Contact & Feedback
 If you have any suggestions (missing papers, new papers, key researchers or typos), feel free to pull a request. Also you can mail to:
